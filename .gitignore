@@ -1,5 +1,6 @@
 # App-specific
 login_creds.txt
+*.html              # Example sites used for debugging that don't need to be added to Version Control
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
